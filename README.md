@@ -10,9 +10,9 @@ Jiayu Hu
 
 Email: hujiayu211[at]gmail[dot]com
 
-Undergraduated Thesis:<b>
-BBA in Accounting<b>  
-Beijing Normal University-Hong Kong Baptist University United International College
+Undergraduated Thesis:<br>
+BBA in Accounting<br>  
+Beijing Normal Hong Kong Baptist University
 
 ## Purpose
 

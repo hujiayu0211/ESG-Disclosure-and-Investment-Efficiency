@@ -10,9 +10,9 @@ Jiayu Hu
 
 Email: hujiayu211[at]gmail[dot]com
 
-Undergraduated Thesis:<br>
-BBA in Accounting<br>  
-Beijing Normal Hong Kong Baptist University
+Personal website:
+
+Undergraduated Thesis:<br>[BBA in Accounting](https://fbm.bnbu.edu.cn/acct_en/)<br>[Faculty of Business and Management](https://fbm.bnbu.edu.cn/en/)<br>[Beijing Normal Hong Kong Baptist University](https://www.bnbu.edu.cn/en/)
 
 ## Purpose
 
@@ -78,15 +78,37 @@ Install the required dependencies as follows:
 pip install -r requirements.txt
 ```
 
+The `requirements.txt` file contains the Python packages used for data processing, econometric analysis, and result generation.
+
 ### Analyzing the Empirical Results
 
-Run the empirical analysis notebook with:
+Run the final empirical analysis notebook with:
 
 ```bash
 jupyter notebook fyp_analysis_v2.ipynb
 ```
 
-The notebook contains data processing, variable construction, descriptive statistics, correlation analysis, fixed-effects regressions, mediation tests, robustness checks, endogeneity tests, and heterogeneity analysis.
+The `fyp_analysis_v2.ipynb` notebook is the final version used for the main empirical analysis. It includes data processing, variable construction, descriptive statistics, correlation analysis, fixed-effects regressions, mediation tests, robustness checks, endogeneity tests, and heterogeneity analysis.
+
+For transparency and reproducibility, an earlier development notebook is also included:
+
+```bash
+jupyter notebook fyp_analysis_v1.ipynb
+```
+
+The `fyp_analysis_v1.ipynb` notebook contains preliminary testing and development-stage procedures, including the processing of control variables used in the main-effect regressions. This file is retained as supplementary documentation only. The final results and interpretations should refer to `fyp_analysis_v2.ipynb`.
+
+## Project Outcomes
+
+The insights derived from this study provide stakeholders with a better understanding of how ESG disclosure influences corporate investment efficiency in China’s capital market. The empirical results show that higher-quality ESG disclosure can improve information transparency, reduce information asymmetry, and help firms alleviate overinvestment and underinvestment.
+
+These findings contribute to the accounting, ESG disclosure, and corporate governance literature by showing how non-financial disclosure can affect capital allocation efficiency and sustainable corporate decision-making.
+
+## Further Information
+
+This repository provides a project overview, methodology summary, selected empirical findings, and supporting documentation for academic portfolio purposes.
+
+The full final year project report is not publicly uploaded because it was submitted as an academic assessment. Only selected project materials are included in this repository.
 
 ## License
 

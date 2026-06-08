@@ -8,11 +8,14 @@ This accounting empirical research project examines the impact of corporate Envi
 
 Jiayu Hu
 
-Email: hujiayu211[at]gmail[dot]com
-
+Email: hujiayu211[at]gmail[dot]com<br>
 Personal website:
 
-Undergraduated Thesis:<br>[BBA in Accounting](https://fbm.bnbu.edu.cn/acct_en/)<br>[Faculty of Business and Management](https://fbm.bnbu.edu.cn/en/)<br>[Beijing Normal Hong Kong Baptist University](https://www.bnbu.edu.cn/en/)
+### Supervisor:
+
+[Assoc. Prof. Man Hung Alvin Cheng](https://bnbu.edu.cn/en/faculty.htm#/alvinmhcheng/en)
+
+Department of Accounting<br>Faculty of Business and Management<br>Beijing Normal Hong Kong Baptist University
 
 ## Purpose
 

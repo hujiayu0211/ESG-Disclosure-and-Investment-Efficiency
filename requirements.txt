@@ -1,0 +1,11 @@
+pandas
+numpy<2
+statsmodels
+linearmodels
+pydynpd
+scipy
+scikit-learn
+openpyxl
+xlrd
+jupyter
+ipykernel

@@ -46,6 +46,10 @@ The key variables include:
 - Mediating Variable: Information transparency, constructed from market microstructure indicators using principal component analysis.
 - Control Variables: Firm size, leverage, return on assets, price-to-book ratio, Z-score, listing age, board characteristics, ownership structure, CEO duality, and state ownership.
 
+The dataset is not included in this repository due to file size limitations.
+Please contact the author or download it from the following link:
+[Dataset Link](https://unsw-my.sharepoint.com/:f:/g/personal/z5727903_ad_unsw_edu_au/IgDMR0Qz7T1YT5woUeMVNA_ZAVcii3tdO0Zv5Y2h3OqFb6Y?e=jcHbmC)
+
 ## Methodology
 
 This project applies empirical accounting research methods to examine the relationship between ESG disclosure and investment efficiency.

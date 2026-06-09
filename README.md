@@ -13,7 +13,7 @@ Personal website:
 
 ### Supervisor:
 
-[Assoc. Prof. Man Hung Alvin Cheng](https://bnbu.edu.cn/en/faculty.htm#/alvinmhcheng/en)
+Assoc. Prof. [Man Hung Alvin Cheng](https://bnbu.edu.cn/en/faculty.htm#/alvinmhcheng/en)
 
 Department of Accounting<br>Faculty of Business and Management<br>Beijing Normal-Hong Kong Baptist University
 

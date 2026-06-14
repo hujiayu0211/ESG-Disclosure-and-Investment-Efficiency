@@ -9,7 +9,7 @@ This accounting empirical research project examines the impact of corporate Envi
 Jiayu Hu
 
 Email: hujiayu211[at]gmail[dot]com<br>
-Personal website:
+Personal website: jiayuhu.com
 
 ### Supervisor:
 

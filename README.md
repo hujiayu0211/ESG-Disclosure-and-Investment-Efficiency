@@ -119,4 +119,4 @@ The full final year project report is not publicly uploaded because it was submi
 
 ## License
 
-This project is released under the MIT License. See LICENSE.md for more details.
+This project is released under the MIT License. See LICENSE for more details.

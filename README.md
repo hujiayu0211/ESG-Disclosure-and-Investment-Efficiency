@@ -46,7 +46,9 @@ The key variables include:
 - Mediating Variable: Information transparency, constructed from market microstructure indicators using principal component analysis.
 - Control Variables: Firm size, leverage, return on assets, price-to-book ratio, Z-score, listing age, board characteristics, ownership structure, CEO duality, and state ownership.
 
-The dataset is available from the author upon request.
+## Data Availability
+
+Raw data are not publicly uploaded due to licensing restrictions. This repository provides the analysis code, variable definitions, and replication workflow. Users with access to the required databases may reproduce the analysis by preparing the corresponding input files.
 
 ## Methodology
 

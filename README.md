@@ -92,7 +92,7 @@ The `requirements.txt` file contains the Python packages used for data processin
 Run the final empirical analysis notebook with:
 
 ```bash
-jupyter notebook fyp_analysis_v2.ipynb
+jupyter notebook fyp/fyp_analysis_v2.ipynb
 ```
 
 The `fyp_analysis_v2.ipynb` notebook is the final version used for the main empirical analysis. It includes data processing, variable construction, descriptive statistics, correlation analysis, fixed-effects regressions, mediation tests, robustness checks, endogeneity tests, and heterogeneity analysis.
@@ -100,7 +100,7 @@ The `fyp_analysis_v2.ipynb` notebook is the final version used for the main empi
 For transparency and reproducibility, an earlier development notebook is also included:
 
 ```bash
-jupyter notebook fyp_analysis_v1.ipynb
+jupyter notebook fyp/fyp_analysis_v1.ipynb
 ```
 
 The `fyp_analysis_v1.ipynb` notebook contains preliminary testing and development-stage procedures, including the processing of control variables used in the main-effect regressions. This file is retained as supplementary documentation only. The final results and interpretations should refer to `fyp_analysis_v2.ipynb`.

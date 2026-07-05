@@ -85,14 +85,20 @@ Confucian cultural environment.
 
 | Source | What it provides | Coverage used |
 |---|---|---|
-| [Sino-Securities (中证) ESG Rating](https://www.chindices.com) | Third-party ESG rating (AAA–CCC mapped to 9–1), the baseline proxy for ESG disclosure quality (**ESGR**) | 2013–2023 |
+| [Sino-Securities ESG Rating](https://www.chindices.com) | Third-party ESG rating (AAA–CCC mapped to 9–1), the baseline proxy for ESG disclosure quality (**ESGR**) | 2013–2023 |
 | [CSMAR Database](https://data.csmar.com) | Firm-level financial, governance, ownership and market data (controls + investment-model inputs) | 2013–2023 |
 | CSMAR **Daily Trading Data** | Daily return/volume used to build liquidity ratio (LR), illiquidity ratio (ILL) and return-reversal gamma (GAM) → the information-transparency measure (**TRANS**) | 2013–2023 |
 
 **Getting the data.** Sino-Securities and CSMAR are licensed databases, typically
-available through an institutional subscription. Prepare the input files from
-these sources in the format the notebook expects and place them where the
-notebook reads them.
+available through an institutional subscription. Export the standard vendor
+tables for A-share firms over 2013–2023, covering: firm identifiers and year;
+the annual Sino-Securities ESG rating (for **ESGR**); the financial-statement,
+governance and ownership fields behind the controls and the Richardson/Biddle/Chen
+investment models (see *Variables*); and CSMAR **daily** return/volume (for the
+LR / ILL / GAM inputs to **TRANS**). The first data-loading cells of
+`fyp/fyp_analysis_v2.ipynb` document the exact file names, expected columns, and
+read paths — set those paths to where you saved the exports before running the
+rest of the notebook.
 
 ## Variables
 
@@ -139,6 +145,8 @@ kept for transparency only — **all reported results refer to v2**.
 ## Installation
 
 ```bash
+git clone https://github.com/hujiayu0211/ESG-Disclosure-and-Investment-Efficiency.git
+cd ESG-Disclosure-and-Investment-Efficiency
 pip install -r requirements.txt
 ```
 
